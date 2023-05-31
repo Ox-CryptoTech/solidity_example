@@ -12,7 +12,7 @@ Enums in Solidity are similar to enums in other programming languages and can be
 ## Usage:
 
 - Enums can be used to define state variables, function parameters, or return types within your Solidity contract.
-- 
+
 - You can assign an enum value to a variable of the same enum type, and perform comparisons or operations on them.
-- 
+
 - Enums are often used to provide clarity and enforce the use of specific options or states in the contract's logic.
